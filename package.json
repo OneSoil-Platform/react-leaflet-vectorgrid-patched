@@ -30,7 +30,7 @@
     "author": "M. Hasbie",
     "license": "MIT",
     "peerDependencies": {
-        "leaflet": "1.4.0",
+        "leaflet": "^1.4.0",
         "react-leaflet": "^1.9.1 || 2.2.0"
     },
     "devDependencies": {
